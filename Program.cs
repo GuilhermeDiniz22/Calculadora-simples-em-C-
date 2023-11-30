@@ -36,6 +36,8 @@ switch (escolha)
         operador = "/";
         break;
     default:
+        Console.WriteLine("Escolha inválida.");
+        Environment.Exit(0);
         break;
 }
 
@@ -62,6 +64,7 @@ int resultado()
         {
             return dividirNumeros(num1, num2);
         }
+
     }
     catch (Exception ex)
     {
