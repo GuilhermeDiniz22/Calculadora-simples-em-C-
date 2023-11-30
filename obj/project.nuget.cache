@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oRxzMIrfSUfgbI5voE+uxfZfDH9WnwgBtJfoAm4It7byxiyTI+CKkxjOusqYci7Wb12K9clplyWGsUZ4Gux4tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Karla Reis\\Desktop\\UltimateCSharpMasterclass-main\\01_Calculator\\Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karla Reis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Karla Reis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Karla Reis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Karla Reis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
