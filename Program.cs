@@ -3,8 +3,6 @@ Console.WriteLine();
 
 Console.WriteLine();
 
-
-
 string escolha = "";
 
 while (escolha != "F")
